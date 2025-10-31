@@ -1,8 +1,3 @@
-# Portofolio Web — [Faris Edrik P / rissss21]
-
-Selamat datang di portofolio web pribadi saya! 🌐  
-Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya yang ingin saya bagikan.
-
 ##  Struktur Project
 
 - `public/` — file statis (favicon, assets, dsb.)  
@@ -22,7 +17,7 @@ Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya y
 
 1. Clone repository ini:
 ```bash
-git clone https://github.com/rissss21/portofolio.git
+git clone https://github.com/icmalll/myportofolio.git
 cd portofolio
 ````
 
@@ -40,19 +35,6 @@ npm run dev
 ```bash
 npm run build
 ````
-
-## &#x20;Quick Preview
-
-Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahkan link deploy di sini, misalnya:
-[🔗 Lihat versi live](https://username.github.io/portofolio/)
-
-## Tentang Saya
-
-Hai, saya Faris Edrik P (username GitHub: `rissss21`).
-Saya seorang Developer yang suka bikin aplikasi web ringan dengan tampilan modern dan performa tinggi. Scroll aja di project saya, dan jangan sungkan untuk reach out kalau ada pertanyaan!
-
-* **Email:** [email\_farisedrik21@gmail.com](mailto:email_farisedrik21@gmail.com)
-* **LinkedIn:** [linkedin.com/in/farisedp](https://www.linkedin.com/in/farisedp/)
 * **Instagram (opsional):** @farisedrikprayoga
 
 ---
